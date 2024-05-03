@@ -1,1 +1,1 @@
-print("whats your name")
+name = ("whats your name")
